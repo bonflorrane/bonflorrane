@@ -1,5 +1,5 @@
 ## Olá, Lorrane Oliveira aqui✌️
-### Engenheira Química  => Desenvolvedora Java Jr.
+### Engenheira Química  => Engenheira de Dados Jr.
 
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](bonfim_lorrane@hotmail.com)
